@@ -1,11 +1,13 @@
-# Hello I'm Mon Hhh 
+> http://localhost:8080/moncv/index.html npx @11ty/eleventy --serve
+> 
+# Hello I'm Mon Hh✨
 living in the Atlantic Ocean 🌊 of Northwest Spain
 
-##### I work as
+I work as:
 - **Full Stack Javascript Developer** 
 - **Electronic Developer**
 
-I am also a Sound Engineer and Video Editor
+I'm also a Sound Engineer and Video Editor
 
 I make **Generative Audio and Video** and design digital instruments with these tools:
 - max/msp
@@ -13,5 +15,17 @@ I make **Generative Audio and Video** and design digital instruments with these 
 - processing
 - others ....
 
-> http://localhost:8080/moncv/index.html
->
+<!--
+**monhh/monhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
